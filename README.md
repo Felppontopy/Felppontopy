@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felppontopy
-- 👀 I’m interested in python, javascript , html and css
+- 👀 I’m interested in python (mobile apps and back-end) , html and css (front-end)
 - 🌱 I’m currently learning javascript
 - 
 <!---
